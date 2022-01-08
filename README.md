@@ -1,7 +1,7 @@
 ## From TypeScript To Rescript
 
 This is an example of [Inhyped](https://inhyped.com/) frontend codebase initially written in TypeScript and then
-fully rewritten in [ReScript](https://inhyped.com/).
+fully rewritten in [ReScript](https://rescript-lang.org/).
 
 It's published for educational purpose and pursues a goal to demonstrate what a real ReScript project may look like.
 
